@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="701cc659-2acf-44dd-8f83-da360dffff8f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pyramid-Academy.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Pyramid-Academy.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DragonCave.java" beforeDir="false" />
-    </list>
+    <list default="true" id="701cc659-2acf-44dd-8f83-da360dffff8f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
